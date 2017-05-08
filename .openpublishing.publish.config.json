@@ -34,7 +34,8 @@
   "branch_target_mapping": {
     "live": [
       "Publish",
-      "Pdf"
+      "Pdf",
+      "Intellisense"
     ]
   },
   "need_generate_pdf_url_template": true
